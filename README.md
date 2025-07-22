@@ -21,7 +21,7 @@
 - intégrer une **recherche dynamique des articles sur PubMed**,
 - évaluer automatiquement la **qualité des réponses générées au texte du document**,
 - et fonctionner **localement** avec des outils **open source et gratuit**.
-- 
+  
 ![Alt text](Images/Image1.png)
 ---
 
