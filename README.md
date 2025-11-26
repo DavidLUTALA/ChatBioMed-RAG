@@ -27,7 +27,7 @@
 
 ## ✨ Fonctionnalités
 
-- Interface ergonomique, avec historique cliquable
+- Interface ergonomique, avec historique cliquable.
 - Extraction intelligente de passages pertinents  
 - Évaluation de la cohérence des réponses (score de similarité)  
 - Recherche documentaire temps réel sur PubMed  
